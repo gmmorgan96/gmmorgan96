@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working a Distributed Cloud Platform called GhostOsProject.
+I'm currently working a Distributed Cloud Platform called <a href='https://github.com/ghostosproject'>GhostOsProject</a>.
 
 
 # 💻 Tech Stack:
